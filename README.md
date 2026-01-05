@@ -1,4 +1,4 @@
-<h2 align="left">Welcome to My Creative Corner 🎨✨</h2>
+<h1 align="left">Welcome to My Creative Corner 🎨✨</h1>
 
 ###
 
@@ -29,20 +29,14 @@
 </div>
 
 ###
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=RANZMENTRY&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 ###
-
 <img align="right" height="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lkYzM1dGpsYjBrMzd4MGhlZHN1YXg4aG1zYnlqZDliZ3F3aDhkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"  />
 
 ###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
