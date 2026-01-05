@@ -56,13 +56,6 @@
 </div>
 
 ###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RANZMENTRY/RANZMENTRY/output/snake.svg" alt="Snake animation" />
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RANZMENTRY&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RANZMENTRY&theme=tokyonight&hide_border=false)<br/>
@@ -72,13 +65,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=RANZMENTRY&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RANZMENTRY/RANZMENTRY/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RANZMENTRY/RANZMENTRY/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RANZMENTRY/RANZMENTRY/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
