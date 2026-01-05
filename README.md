@@ -36,14 +36,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RANZMENTRY&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RANZMENTRY&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RANZMENTRY&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RANZMENTRY&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lkYzM1dGpsYjBrMzd4MGhlZHN1YXg4aG1zYnlqZDliZ3F3aDhkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"  />
 
@@ -62,6 +54,15 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/RANZMENTRY/RANZMENTRY/output/snake.svg" alt="Snake animation" />
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RANZMENTRY&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RANZMENTRY&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RANZMENTRY&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RANZMENTRY&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
 
 ###
 
